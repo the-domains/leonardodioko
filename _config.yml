@@ -1,19 +1,4 @@
-name: leonardodioko
-favicon: null
-layout_spectrum: 0.207
 typography_spectrum: 0.743
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -25,4 +10,20 @@ color:
   lightness: 0.25604801531881094
   saturation: 0.9163996856659651
   rhythmicContrast: 0.3955006957985461
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.207
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: leonardodioko
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: How much tourism is too much?
 purpose: []
